@@ -1,0 +1,17 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MLBB Diamond Top-Up</title>
+</head>
+<body>
+  <h1>MLBB Diamond Top-Up</h1>
+  <p>Scan the QR code to top-up:</p>
+  <img src="your_qr_image_url.jpg" alt="QR code for MLBB diamond top-up" style="max-width: 200px;">
+  <p>State Bank 0... - 2141</p>
+</body>
+</html>
+
+
